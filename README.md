@@ -26,6 +26,3 @@ This project leverages DeepSeek-R1 and Streamlit to create a 100% locally runnin
     streamlit run app.py
     ```
 2. Open your web browser and go to `http://localhost:8501` to interact with the ChatGPT UI.
-
-## License
-This project is licensed under the MIT License.
