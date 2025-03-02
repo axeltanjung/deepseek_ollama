@@ -1,4 +1,4 @@
-# Local ChatGPT with Thinkings UI
+# Local ChatGPT with Thinking UI
 This project leverages DeepSeek-R1 and Streamlit to create a 100% locally running mini-ChatGPT app.
 
 ## Features
